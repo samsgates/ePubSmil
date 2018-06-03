@@ -18,3 +18,6 @@ How to use ePubSmil:
 
 
 Project Details : http://epubfix.blogspot.com/search/label/ePubSmil
+
+
+Prerequisite: https://github.com/ComponentFactory/Krypton
